@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4b5f2af5-a73d-471b-8175-a9d25c2a94ee" name="Default Changelist" comment="sql">
+      <change afterPath="$PROJECT_DIR$/sql_exm/lib/addTodo.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql_exm/lib/databaseapp.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql_exm/lib/todo.dart" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1tkyH0BwMaK9EBJeIAqBJQFDcXY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="experimental" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b5f2af5-a73d-471b-8175-a9d25c2a94ee" name="Default Changelist" comment="" />
+      <created>1623327289057</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623327289057</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="sql" />
+    <option name="LAST_COMMIT_MESSAGE" value="sql" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="736" y="356" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1623559881953">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="736" y="356" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400/3840.0.1920.1080@0.0.2560.1400" timestamp="1623559881953" />
+    <state x="1086" y="417" key="#com.intellij.ide.util.MemberChooser" timestamp="1623329535944">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1086" y="417" key="#com.intellij.ide.util.MemberChooser/0.0.2560.1400/3840.0.1920.1080@0.0.2560.1400" timestamp="1623329535944" />
+    <state x="93" y="93" width="2375" height="1215" key="AVDManager" timestamp="1623560560219">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="93" y="93" width="2375" height="1215" key="AVDManager/0.0.2560.1400/3840.0.1920.1080@0.0.2560.1400" timestamp="1623560560219" />
+    <state x="1094" y="446" key="AndroidProcessChooserDialog" timestamp="1623560037689">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1094" y="446" key="AndroidProcessChooserDialog/0.0.2560.1400/3840.0.1920.1080@0.0.2560.1400" timestamp="1623560037689" />
+    <state x="900" y="259" key="CommitChangelistDialog2" timestamp="1623559602780">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="900" y="259" key="CommitChangelistDialog2/0.0.2560.1400/3840.0.1920.1080@0.0.2560.1400" timestamp="1623559602780" />
+    <state x="1061" y="456" key="FileChooserDialogImpl" timestamp="1623560470860">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1061" y="456" key="FileChooserDialogImpl/0.0.2560.1400/3840.0.1920.1080@0.0.2560.1400" timestamp="1623560470860" />
+    <state x="782" y="345" key="SettingsEditor" timestamp="1623560540214">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="782" y="345" key="SettingsEditor/0.0.2560.1400/3840.0.1920.1080@0.0.2560.1400" timestamp="1623560540214" />
+  </component>
+</project>
