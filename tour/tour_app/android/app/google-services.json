@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "20482039892",
+    "project_id": "modutour-d6456",
+    "storage_bucket": "modutour-d6456.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20482039892:android:ace5f699adeb0c29ae8dc1",
+        "android_client_info": {
+          "package_name": "com.dard.tour_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "20482039892-33lt6a3on22po7g2hjsarg7s6q8ckrok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJk3GkMzRtxcqsWaX0u7qW24PBuKU6boo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "20482039892-33lt6a3on22po7g2hjsarg7s6q8ckrok.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
