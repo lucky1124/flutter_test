@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:tour_app/loginPage.dart';
+import 'package:tour_app/main/mainPage.dart';
 import 'package:tour_app/singPage.dart';
 
 void main() => runApp(MyApp());
@@ -14,6 +15,7 @@ class MyApp extends StatelessWidget {
       routes: {
         '/' :(context) => LoginPage(),
         '/sign' : (context) => SingPage(),
+        '/main' : (context) => MainPage(),
       },
     );
   }

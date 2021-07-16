@@ -105,7 +105,7 @@ class _LoginPageState extends State<LoginPage> {
                                 var digest = sha1.convert(bytes);
                                 if(user.pw == digest.toString()){
                                   Navigator.of(context).pushReplacementNamed('/main',
-                                  arguments: _idTextController);
+                                  arguments: _idTextController.value.text);
                                 }
                                 else{
                                   makeDialog('비빌번호가 틀립니다');
